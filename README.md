@@ -1,2 +1,2 @@
 # simply_react_toDo
-Created with CodeSandbox
+This is a single page to_do list that does not have any database 
